@@ -24,7 +24,7 @@ Move from **unreal to real**, from **unimaginable to imaginable** — by practic
 
 ## 🎥 Course Videos
 
-All lessons and assignments are available as **unlisted videos** on the [ToodMind YouTube Channel](https://youtube.com/@toodmind).  
+All lessons and assignments are available as **unlisted videos** on the [Goobo Labs YouTube Channel](https://youtube.com/@goobolabs).  
 Follow them in order for the full learning experience. 🚀
 
 | # | Title | Watch |
