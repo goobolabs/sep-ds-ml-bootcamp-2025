@@ -3,6 +3,7 @@
 Welcome to the **Data Science & Machine Learning Bootcamp** repository! 🚀
 
 This repo contains all the lessons, code examples, assignments, and resources used during our one-month intensive bootcamp.
+
 The program is designed to take participants from **zero to hands-on projects**, covering the full ML workflow:
 
 1. Collect Data
